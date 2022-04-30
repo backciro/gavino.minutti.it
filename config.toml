@@ -1,0 +1,65 @@
+baseurl = "http://localhost:1313"
+title = "Gavino Minutti"
+theme = "hugo-coder"
+languagecode = "it"
+defaultcontentlanguage = "it"
+
+paginate = 20
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+# disqusShortname = "yourdiscussshortname"
+
+[params]
+  author = "Gavino Minutti"
+  info = "Stretegia Territoriale & Finanza d'Impresa"
+  description = "Consulenza su Stretegia & Finanza d'Impresa"
+  keywords = "consultant,stretegy,sardegna,consulenza in sardegna, consulenza d'impresa, imprendtore"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 1949
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["/css/custom.css"]
+  # customSCSS = ["/scss/custom.scss"]
+  # customJS = ["/js/custom.js"]
+
+[taxonomies]
+  # category = "categories"
+  # series = "series"
+  # tag = "tags"
+  # author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Facebook"
+  icon = "fa fa-facebook fa-2x"
+  weight = 2
+  url = "https://it-it.facebook.com/gavino.minutti"
+
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://it.linkedin.com/in/gavino-minutti-28a88432"
+
+# Menu links
+[[menu.main]]
+  name = "Articoli"
+  weight = 1
+  url  = "blog/"
+[[menu.main]]
+  name = "Progetti"
+  weight = 2
+  url  = "projects/"
+
+[[menu.main]]
+  name = "About Me"
+  weight = 3
+  url = "about/"
