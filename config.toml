@@ -51,13 +51,13 @@ pygmentscodefencesguesssyntax = true
 
 # Menu links
 [[menu.main]]
-  name = "Articoli"
+  name = "Rassegna Stampa"
   weight = 1
   url  = "blog/"
 [[menu.main]]
-  name = "Progetti"
+  name = "Portfolio"
   weight = 2
-  url  = "projects/"
+  url  = "portfolio/"
 
 [[menu.main]]
   name = "About"
