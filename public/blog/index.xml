@@ -1,19 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Gavino Minutti</title>
+    <title>Rassegna Stampa on Gavino Minutti</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blog on Gavino Minutti</description>
+    <description>Recent content in Rassegna Stampa on Gavino Minutti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 18:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Articolo di Test</title>
-      <link>http://localhost:1313/blog/test/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      <title>Il Muto di Gallura</title>
+      <link>http://localhost:1313/blog/il-muto-di-gallura/</link>
+      <pubDate>Sat, 23 Apr 2022 18:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/blog/test/</guid>
-      <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
+      <guid>http://localhost:1313/blog/il-muto-di-gallura/</guid>
+      <description>Al suo debutto nel cinema che conta Matteo Fresi si immerge nel Muto di Gallura, una storia di metà Ottocento tragicamente vera, sempre viva e mai risolta nella sua entità. Il film divide critica e opinione pubblica tra apprezzamenti e stroncature. E questa è una buona cosa per il regista. Il mutismo e l’indifferenza, è noto, sono connotati spesso in agguato in questa terra. La voce che continua a farsi sentire è quella di Bastianu Tansu, il muto reso “mitico” da Enrico Costa, descritto nell’omonimo romanzo, tra le opere storico-letterarie tuttora più richieste nelle librerie sarde.</description>
+    </item>
+    
+    <item>
+      <title>Altura, l’utopia del paesaggio</title>
+      <link>http://localhost:1313/blog/altura-utopia-del-paesaggio/</link>
+      <pubDate>Sat, 18 Apr 2020 18:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/altura-utopia-del-paesaggio/</guid>
+      <description>Gli ingredienti del cinema neorealista in Altura di Mario Sequi ci sono tutti. Dal tema di rilevanza sociale, alle sequenze girate prevalentemente in esterni, fino alla presenza di attori reclutati sul posto. Come la cinematografia di quella stagione, Altura indaga la condizione sociale di un pezzo d’Italia post bellica. Il desiderio di lasciare il passato alle spalle, subentra alla frustrazione, alla povertà più nera. Sparito dai circuiti della distribuzione, dopo settant’anni dalla sua produzione, il film è nuovamente fruibile.</description>
+    </item>
+    
+    <item>
+      <title>Di quale di cultura, Nuoro è mancata capitale</title>
+      <link>http://localhost:1313/blog/cultura-nuoro/</link>
+      <pubDate>Sun, 18 Feb 2018 18:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/cultura-nuoro/</guid>
+      <description>Ci abbiamo provato, bisognava provarci, ma non potevamo ragionevolmente credere che Nuoro potesse avere il riconoscimento di capitale italiana della cultura. Non sulle basi delle regole attuali, avendo la nostra cultura altri paradigmi. Naturalmente, come gran parte dei sardi, anch’io sono dispiaciuto, perché anch’io ho ceduto all’illusione del gioco e della gara.
+È bene prenderne atto, la Sardegna e i sardi si sono palesati ancora una volta estranei alla cultura italiana.</description>
+    </item>
+    
+    <item>
+      <title>Antonio Masoni, l’intervista a GM</title>
+      <link>http://localhost:1313/blog/antonio-masoni-intervista-gm/</link>
+      <pubDate>Sun, 12 Feb 2017 18:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/antonio-masoni-intervista-gm/</guid>
+      <description>Tempio Pausania, 12 feb. 2017
+Sono stato indeciso sino all’ultimo, faccio o non faccio l’intervista. Alla fine, propendo per il no e vado ad un incontro con Gavino Minutti, calangianese trapiantato ad Aggius, fondatore di Meta Consulting, una società che opera nel settore della consulenza per studi di fattibilità e progettazioni in tutta Italia e che ha una sede in Sicilia da cui si diramano varie succursali nel centro sud. Marketing, Comunicazione, Gestione, Formazione, Sviluppo delle risorse umane, e tanto altro le competenze di questa attività.</description>
+    </item>
+    
+    <item>
+      <title>Cortes a Orgosolo</title>
+      <link>http://localhost:1313/blog/orgosolo/</link>
+      <pubDate>Tue, 18 Oct 2016 18:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/orgosolo/</guid>
+      <description>La decadenza fa parte dell&amp;rsquo;essenza. Tutto decade, crolla, si scompone. Ieri, davanti a questa rovina, sentivo persone esclamare stupore, pensando a quanto sarebbe bella se restaurata, non capendo che quella bellezza è data proprio dal suo essere rovina.
+È l’incuria del tempo a dare luce e mistero ai luoghi.</description>
     </item>
     
   </channel>

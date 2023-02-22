@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Gavino Minutti</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Portfolio on Gavino Minutti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate><atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distretto Culturale - Il Figlio Genera il Padre</title>
+      <link>http://localhost:1313/portfolio/distretto-culturale/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/distretto-culturale/</guid>
+      <description>§ IL FIGLIO GENERA IL PADRE: innovazione tra presente e passato Il termine innovazione (alquanto abusato da apparire perfino banale) nasce dall’incrocio concettuale di altre parole e di altre idee. Scaturisce dal processo di invenzione tecnologica, intrecciandosi con le dinamiche economiche e sociali. L’innovazione è dunque quell’atto creativo attraverso cui un’idea assume la forma di un oggetto reale, cioè la dimensione applicativa di un’invenzione o di una scoperta. Esso riguarda un processo o un prodotto che promette risultati o benefici maggiori, apportando quindi un miglioramento sociale.</description>
+    </item>
+    
+  </channel>
+</rss>

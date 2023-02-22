@@ -3,21 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <lastmod>2022-04-23T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/test/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2022-04-23T18:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/il-muto-di-gallura/</loc>
+    <lastmod>2022-04-23T18:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/altura-utopia-del-paesaggio/</loc>
+    <lastmod>2020-04-18T18:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/cultura-nuoro/</loc>
+    <lastmod>2018-02-18T18:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/distretto-culturale/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/test/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <loc>http://localhost:1313/blog/antonio-masoni-intervista-gm/</loc>
+    <lastmod>2017-02-12T18:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/orgosolo/</loc>
+    <lastmod>2016-10-18T18:00:00+01:00</lastmod>
   </url>
 </urlset>
