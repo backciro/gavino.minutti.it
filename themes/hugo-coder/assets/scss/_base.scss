@@ -6,28 +6,28 @@
 
 html {
   box-sizing: border-box;
-  font-size: 62.5%;
+  font-size : 62.5%;
 }
 
 body {
-  color: $fg-color;
+  color           : $fg-color;
   background-color: $bg-color;
-  font-family: $font-family;
-  font-size: 1.8em;
-  font-weight: 400;
-  line-height: 1.8em;
+  font-family     : $font-family;
+  font-size       : 1.8em;
+  font-weight     : 400;
+  line-height     : 1.8em;
 
   @media only screen and (max-width: 768px) {
-    font-size: 1.6em;
+    font-size  : 1.6em;
     line-height: 1.6em;
   }
 }
 
 a {
-  font-weight: 500;
-  color: $link-color;
+  font-weight    : 500;
+  color          : $link-color;
   text-decoration: none;
-  transition: all 0.25s ease-in;
+  transition     : all 0.25s ease-in;
 
   &:focus,
   &:hover {
@@ -47,84 +47,84 @@ h5,
 h6 {
   font-family: $font-family;
   font-weight: 600;
-  color: $alt-fg-color;
-  margin: 4rem 0 2.5rem 0;
+  color      : $alt-fg-color;
+  margin     : 4rem 0 2.5rem 0;
 
   &:hover .heading-link {
     visibility: visible;
   }
 
   .heading-link {
-    color: $link-color;
-    font-weight: inherit;
+    color          : $link-color;
+    font-weight    : inherit;
     text-decoration: none;
-    font-size: 80%;
-    visibility: hidden;
+    font-size      : 80%;
+    visibility     : hidden;
   }
 
   .title-link {
-    color: inherit;
-    font-weight: inherit;
+    color          : inherit;
+    font-weight    : inherit;
     text-decoration: none;
   }
 }
 
 h1 {
-  font-size: 3.2rem;
+  font-size  : 3.2rem;
   line-height: 3.6rem;
 
   @media only screen and (max-width: 768px) {
-    font-size: 3rem;
+    font-size  : 3rem;
     line-height: 3.4rem;
   }
 }
 
 h2 {
-  font-size: 2.8rem;
+  font-size  : 2.8rem;
   line-height: 3.2rem;
 
   @media only screen and (max-width: 768px) {
-    font-size: 2.6rem;
+    font-size  : 2.6rem;
     line-height: 3rem;
   }
 }
 
 h3 {
-  font-size: 2.4rem;
+  font-size  : 2.4rem;
   line-height: 2.8rem;
 
   @media only screen and (max-width: 768px) {
-    font-size: 2.2rem;
+    font-size  : 2.2rem;
     line-height: 2.6rem;
   }
 }
 
 h4 {
-  font-size: 2.2rem;
+  font-size  : 2.2rem;
   line-height: 2.6rem;
 
   @media only screen and (max-width: 768px) {
-    font-size: 2rem;
+    font-size  : 2rem;
     line-height: 2.4rem;
   }
 }
 
 h5 {
-  font-size: 2rem;
+  font-size  : 2rem;
   line-height: 2.4rem;
 
   @media only screen and (max-width: 768px) {
-    font-size: 1.8rem;
+    font-size  : 1.8rem;
     line-height: 2.2rem;
   }
 }
 
 h6 {
-  font-size: 1.8rem;
+  font-size  : 1.8rem;
   line-height: 2.2rem;
 
   @media only screen and (max-width: 768px) {
-    font-size: 1.6rem;
+    font-size  : 1.6rem;
     line-height: 2rem;
   }
 }
@@ -136,43 +136,43 @@ strong {
 
 .highlight>div,
 .highlight>pre {
-  margin: 0 0 2rem;
-  padding: 1rem;
+  margin       : 0 0 2rem;
+  padding      : 1rem;
   border-radius: 1rem;
 }
 
 pre {
-  display: block;
+  display    : block;
   font-family: $code-font-family;
-  font-size: 1.6rem;
+  font-size  : 1.6rem;
   font-weight: 400;
   line-height: 2.6rem;
-  overflow-x: auto;
-  margin: 0;
+  overflow-x : auto;
+  margin     : 0;
 
   code {
-    display: inline-block;
+    display         : inline-block;
     background-color: inherit;
-    color: inherit;
+    color           : inherit;
   }
 }
 
 code {
-  font-family: $code-font-family;
-  font-size: 1.6rem;
-  font-weight: 400;
+  font-family     : $code-font-family;
+  font-size       : 1.6rem;
+  font-weight     : 400;
   background-color: $alt-bg-color;
-  color: $fg-color;
-  border-radius: 0.6rem;
-  padding: 0.3rem 0.6rem;
+  color           : $fg-color;
+  border-radius   : 0.6rem;
+  padding         : 0.3rem 0.6rem;
 }
 
 blockquote {
-  border-left: 2px solid $alt-bg-color;
+  border-left : 2px solid $alt-bg-color;
   padding-left: 2rem;
-  line-height: 2.2rem;
-  font-weight: 400;
-  font-style: italic;
+  line-height : 2.2rem;
+  font-weight : 400;
+  font-style  : italic;
 }
 
 th,
@@ -219,25 +219,25 @@ figure {
   $null-transition: none !important;
 
   -webkit-transition: $null-transition;
-  -moz-transition: $null-transition;
-  -ms-transition: $null-transition;
-  -o-transition: $null-transition;
-  transition: $null-transition;
+  -moz-transition   : $null-transition;
+  -ms-transition    : $null-transition;
+  -o-transition     : $null-transition;
+  transition        : $null-transition;
 }
 
 .wrapper {
-  display: flex;
+  display       : flex;
   flex-direction: column;
 
   min-height: 100vh;
-  width: 100%;
+  width     : 100%;
 }
 
 .container {
-  margin: 1rem auto;
-  max-width: 90rem;
-  width: 100%;
-  padding-left: 2rem;
+  margin       : 1rem auto;
+  max-width    : 90rem;
+  width        : 100%;
+  padding-left : 2rem;
   padding-right: 2rem;
 }
 
@@ -263,4 +263,21 @@ figure {
 
 .fas {
   font-weight: 900;
+}
+
+
+.img-container {
+  margin    : auto;
+  text-align: center;
+
+  img {
+    min-width : 300px;
+    margin    : auto;
+    max-height: 500px;
+    object-fit: cover;
+  }
+}
+
+.time p {
+  text-align: right !important;
 }

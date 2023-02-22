@@ -3249,6 +3249,18 @@ figure {
 .fas {
   font-weight: 900; }
 
+.img-container {
+  margin: auto;
+  text-align: center; }
+  .img-container img {
+    min-width: 300px;
+    margin: auto;
+    max-height: 500px;
+    object-fit: cover; }
+
+.time p {
+  text-align: right !important; }
+
 .content {
   flex: 1;
   display: flex;

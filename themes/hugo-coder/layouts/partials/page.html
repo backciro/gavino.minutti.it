@@ -3,11 +3,22 @@
     <header>
       <h1 class="title">
         <a class="title-link" href="{{ .Permalink | safeURL }}">
-          {{ .Title }} 
+          {{ .Title }}
         </a>
       </h1>
-      
+
+      <div class="time">
+        <p>
+          {{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
+        </p>
+      </div>
     </header>
+
+    <div class="img-container" {{ with .Params.image }}>
+    <div class="hero-image">
+      <img src="{{ . }}" >
+    </div>
+    </div {{ end }}>
     
     {{ .Content }}
   </article>
